@@ -19,14 +19,14 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble: 
   email: 
-  facebook: https://www.facebook.com/yosuke0810
+  facebook: yosuke0810
   flickr: 
-  github: https://github.com/yskt0810/bha2022/
-  instagram: 
+  github: yskt0810
+  instagram: yskt0810
   linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: https://twitter.com/yskt0810
+  twitter: yskt0810
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
