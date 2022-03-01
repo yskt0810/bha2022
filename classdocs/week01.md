@@ -17,29 +17,29 @@ permalink: /01_Introductions/
 
 I made my public documentation site on Github Page. Here are the procedures of setting up github pages.
 
-1. Fork the repository of [BioHackAcademy Documentation Site Template](https://github.com/BioHackAcademy/BHA_DocumentationSite) (based on Jekylle Static Site Generators). How to fork the repository? You can find the "fork" button on top-right.
+1: Fork the repository of [BioHackAcademy Documentation Site Template](https://github.com/BioHackAcademy/BHA_DocumentationSite) (based on Jekylle Static Site Generators). How to fork the repository? You can find the "fork" button on top-right.
 
 ![](../images/week01/1-1.png)
 
-2. "Rename" the repository. You can change the repository name in "setting".
+2: "Rename" the repository. You can change the repository name in "setting".
 
 ![](../images/week01/1-2.png)
 
-3. Setting Up GitHub Page. You can setup Github page at "Page" Section. Set a branch that publish to the pages. Here, I chooed the master branch of the repository.
+3: Setting Up GitHub Page. You can setup Github page at "Page" Section. Set a branch that publish to the pages. Here, I chooed the master branch of the repository.
 
 ![](../images/week01/1-3.png)
 
-4. Clone the repository into my Local Computer. Execute this command in my PC. You can copy the URL of repository from the button "Code".
+4: Clone the repository into my Local Computer. Execute this command in my PC. You can copy the URL of repository from the button "Code".
 
 ```
 git clone git@github.com:yskt0810/bha2022.git
 ```
 
-5. Open the repository with the Editor (Here is the example of VS Code to open the repository).
+5: Open the repository with the Editor (Here is the example of VS Code to open the repository).
 
 ![](../images/week01/1-5.png)
 
-6. Open _config.yml file to change some configurations of the website. The important parts of changes are here. You can also ckeck whole settings [here](https://github.com/yskt0810/bha2022/blob/master/_config.yml).
+6: Open _config.yml file to change some configurations of the website. The important parts of changes are here. You can also ckeck whole settings [here](https://github.com/yskt0810/bha2022/blob/master/_config.yml).
 
 ```
 
@@ -63,7 +63,7 @@ baseurl: "/bha2022"
 
 ```
 
-7. Commit and Push to the remote repository with these command.
+7: Commit and Push to the remote repository with these command.
 
 Here is the commands that you can use for pushing the repository
 
@@ -71,7 +71,7 @@ Here is the commands that you can use for pushing the repository
 - git commit
 - git push
 
-8. Wait a few seconds.... Then you can see the webpage are published!
+8: Wait a few seconds.... Then you can see the webpage are published!
 
 ![](../images/week01/1-6.png)
 
@@ -88,10 +88,6 @@ About me page is [here](../about.md)
 
 ## Answering Questions
 
-**What is Life? How would you define it, can you actually define it?**
-
-
-**What is BioHacking? What does it mean for you?**
-
-
-**Why are you interested in Bio?**
+- What is Life? How would you define it, can you actually define it?
+- What is BioHacking? What does it mean for you?
+- Why are you interested in Bio?

@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
-
-## About Me
 
 Hi, I am Yosuke Tsuchiya. I am a [Fab Academy](https://fabacademy.org/2022/) Local Instructor at FabLab Kamakura.
 
