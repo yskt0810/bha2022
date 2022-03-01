@@ -2,9 +2,11 @@
 layout: default
 ---
 
+Welcome to my BioHack Academy Documentation Site. 
+
 ### Class Docs
 
-- [01: Introductions](./classdocs/week01.md)
+- [01: Introductions](./01_Introductions/)
 - 02: Deconstructing the Lab
 - 03: Making the Lab
 - 04: Growing Materials

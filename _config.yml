@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Yosuke
+name: Yosuke Tsuchiya
 
 # Short bio or description (displayed in the header)
 description: BioHack Academy 2022 blog
@@ -19,14 +19,14 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble: 
   email: 
-  facebook: 
+  facebook: https://www.facebook.com/yosuke0810
   flickr: 
-  github:
+  github: https://github.com/yskt0810/bha2022/
   instagram: 
   linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter:
+  twitter: https://twitter.com/yskt0810
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
