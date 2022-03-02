@@ -4,7 +4,9 @@ layout: default
 
 Welcome to my BioHack Academy Documentation Site. 
 
-### Class Docs
+- [BHA2022 Website](http://biohackacademy.github.io/)
+
+### Documentations
 
 - [01: Introductions](./01_Introductions/)
 - 02: Deconstructing the Lab

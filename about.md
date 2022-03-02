@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I am Yosuke Tsuchiya. I am a [Fab Academy](https://fabacademy.org/2022/) Local Instructor at FabLab Kamakura.
 
-I am also working as an engineer at the museum located in Tokyo. My former job was the Assistant Professor in Aoyamagakuin University, Institute of Information and Media. My background is inter-dicipline betweek computer-science and social science. I am interested how to apply opensource software/hardware technologies to make our life, communities and society better. From this April, I will re-enter the graduate school of Data Science (Data Science Bussiness Lab) Musashino University to get Ph.D degree.
+I am also working as an engineer at the museum located in Tokyo. My background is inter-dicipline betweek computer-science and social science. I am interested how to apply opensource software/hardware technologies to make our life, communities and society better. From this April, I will re-enter the graduate school majoring Data Science to get Ph.D degree.
 
 Please see also:
 
