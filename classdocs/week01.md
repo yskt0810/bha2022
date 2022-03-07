@@ -100,7 +100,7 @@ Life is something like misterious and miracle... I couldn't imagine we can hack 
 
 Hacking is the word originally from compurter science. Hack is, in my opininon, action to reveal unrevealed, solve problems and create sometihg new things with using computer skills. Therefore, it is defined that "hacker build things" (cited from Eric Raymond's article "[How to Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html#what_is)"). 
 
-Bio (or Biology) is the scientific study of life. It contains various kinds of fields (from fundamental mechanism of life to infomatic anayisis of cells, genetic engineering... and so on). Bio-Hacking would be the action to reveal unrevealed, solve problems and create something new with using recent Biological knowledge. 
+Bio (or Biology) is the scientific study of life. It contains various kinds of fields (from fundamental mechanism of life to infomatic anayisis of cells, genetic engineering... and so on). Bio-Hacking would be the action to reveal unrevealed, solve problems and create something new with using recent Biological knowledge and skills.  
 
 Also, as hacking are grown in open culture and hackers buit Internet and made Linux Operating System in there, "Bio-Hack" is included the action by citizen in open community (as opposite side of closed laboratories in unviersities or companies). That means, for me, I can also join to bio-hack (or bio-hack community). I like the open-source software/hardware and it's community. It is the pleasure that the bio technology would be more opened and anyone could be access to that, and I am happy to join there.
 
