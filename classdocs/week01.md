@@ -88,6 +88,24 @@ About me page is [here](../about.md)
 
 ## Answering Questions
 
-- What is Life? How would you define it, can you actually define it?
-- What is BioHacking? What does it mean for you?
-- Why are you interested in Bio?
+**What is Life? How would you define it, can you actually define it?**
+
+Here is the brainstorming pictures in Local Session at BioClub Tokyo.
+
+![](../images/week01/brainstorming.jpg)
+
+Life is something like misterious and miracle... I couldn't imagine we can hack "life". Life is in Japanese "生命" or "生物". Someone say it should defined that contains metabolism. At the same local session, we learned the Bio safe rule in our lab, and it also gave me some hints that define about life, that is "self-replciation", something like the one that implemete the function that make their own copy. And, Life is the one that separated from the outer world (environment) and the membrane. In other word, life is the one that have their inside world that works automounsly.
+
+**What is BioHacking? What does it mean for you?**
+
+Hacking is the word originally from compurter science. Hack is, in my opininon, action to reveal unrevealed, solve problems and create sometihg new things with using computer skills. Therefore, it is defined that "hacker build things" (cited from Eric Raymond's article "[How to Become A Hacker](http://www.catb.org/~esr/faqs/hacker-howto.html#what_is)"). 
+
+Bio (or Biology) is the scientific study of life. It contains various kinds of fields (from fundamental mechanism of life to infomatic anayisis of cells, genetic engineering... and so on). Bio-Hacking would be the action to reveal unrevealed, solve problems and create something new with using recent Biological knowledge. 
+
+Also, as hacking are grown in open culture and hackers buit Internet and made Linux Operating System in there, "Bio-Hack" is included the action by citizen in open community (as opposite side of closed laboratories in unviersities or companies). That means, for me, I can also join to bio-hack (or bio-hack community). I like the open-source software/hardware and it's community. It is the pleasure that the bio technology would be more opened and anyone could be access to that, and I am happy to join there.
+
+**Why are you interested in Bio?**
+
+Because, I want to know what could we do with bio-hacking (or DIY Bio technology). Bio Hacking and biology is totally new field for me. My knowledge for biology is stopped in Japan's high school classes. I just heared the possibility of genetix engineering or other topics of recent Biology, and I want to learn about it. 
+
+Also, I am belonging the fab community (global fab lab network). I also want make my own knowledges and skills that make almost anything (as fab lab makes almost anything). 
