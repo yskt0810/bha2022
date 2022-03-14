@@ -9,7 +9,7 @@ Welcome to my BioHack Academy Documentation Site.
 ### Documentations
 
 - [01: Introductions](./01_Introductions/)
-- 02: Deconstructing the Lab
+- [02: Deconstructing the Lab](./02_DeconstructingTheLab)
 - 03: Making the Lab
 - 04: Growing Materials
 - 05: Growing more(HLN)

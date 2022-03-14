@@ -30,13 +30,15 @@ Finished to make. That looks nice.
 
 Then, try to see the sample materials....
 
-![](../images/week02/IMG_0870.jpeg)
+![](../images/week02/IMG_0957.jpeg)
 
 with setting it into the back of the glass.
 
 ![](../images/week02/IMG_0871.jpeg)
 
-.... Finally, I cound see the micro view of the sample materials... but I couldn't take a picture of it.... 
+.... Finally, I cound see the micro view of the sample materials.
+
+![](../images/week02/IMG_0955.jpeg)
 
 
 ### Pocket PCR (Thermocycular) 
