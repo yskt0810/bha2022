@@ -103,7 +103,7 @@ and we can find a big heatsink and something like a device to controll the tempe
 
 ## What I learned.
 
-I learned some machines using in the BioLab. In my understanding, those machines are mainly separated into two roles 1) the machines that control the environment around the target materials (to make something like a biological reactions), 2) the machines that measure and check the material in nano/micro scale.
+I learned some machines using in the BioLab. In my understanding, those machines are mainly separated into two roles 1) the machines that control the environment around the target materials (to make something like a biological reactions), 2) the machines that measure and check the material in nano/micro scale. (As standard fab lab machines mainly separated into two type 1) subtractive approach (CNC, laser cutter) 2) additive approach (3D Printer)) 
 
 Also, I tried to make some DIY kit for bio hacking. It's my pleasure to know that some of the DIY Bio machine could make by myself (with the procedures of Digital Fabrications).
 
