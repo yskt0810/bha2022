@@ -30,12 +30,7 @@ Finally, finished to make....
 
 It have small holes in both side of the Cleanbox for air passage. We can set a hair driyer (for alternate of the fan) to make air. 
 
-<div style="text-align: center;">
-
-
 ![](../images/week03/IMG_0959.jpg)
-
-</div>
 
 My Groupmate are good at to make a typography of Kanji by Vinyl Tape. So, she made "風神" (meaning: The God of Wind) on the top of our Cleanbox. 
 
