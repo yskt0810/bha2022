@@ -30,11 +30,12 @@ Finally, finished to make....
 
 It have small holes in both side of the Cleanbox for air passage. We can set a hair driyer (for alternate of the fan) to make air. 
 
-<center>
+<div style="text-align: center;">
+
 
 ![](../images/week03/IMG_0959.jpg)
 
-</center>
+</div>
 
 My Groupmate are good at to make a typography of Kanji by Vinyl Tape. So, she made "風神" (meaning: The God of Wind) on the top of our Cleanbox. 
 
@@ -45,7 +46,6 @@ My Groupmate are good at to make a typography of Kanji by Vinyl Tape. So, she ma
 ![](../images/week03/DSC_6108.jpg)
 
 Well,,, it is complete to make it. In my experience of Fab Academy works, it is important to make moc-up by cardboard to understand what I want to make.... I thought I will learn more what the role of Cleanbox, and what are the role of every machines in Bio Lab....
-
 
 
 3. Fork and Change the BHA Stirrer Repo
