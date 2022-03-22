@@ -4,15 +4,25 @@ title: 03 Making the Lab
 permalink: /03_MakingTheLab/
 ---
 
-"Making the Lab" this topic is about Fab Lab and Digital Fabrication. In the lectures, there are a couple of fabricated machines for DIY Biohacking. In the lecture, I could see the overview of Waag Fab Lab, demonstration of 3D modelling by Autodesk Fusion 360. Then, some DIY Biohacking Kit are introduced. Those let me remember some lectures of [Computer-Aided Design](https://vimeo.com/673168884) and [What is Digital Fabrication](https://vimeo.com/670402018) in [Fab Academy](https://fabacademy.org/2022/).
+"Making the Lab" this topic is about Fab Lab and Digital Fabrication. In the lectures, there are a couple of fabricated machines for DIY Biohacking. Also, Waag Fab Lab are introduced, demonstration of 3D modelling by Autodesk Fusion 360. Then, some DIY Biohacking Kit are introduced. Those let me remember some lectures of [Computer-Aided Design](https://vimeo.com/673168884) and [What is Digital Fabrication](https://vimeo.com/670402018) in [Fab Academy](https://fabacademy.org/2022/).
 
 ## What I did in this week
+
+Here is the list that Georg gave us the plan of this week assignment.
+
+```
+1. Test some 3D CAD software (at least two).
+2. Hands-on Group Work: Design and Make a CleanBox
+3. BHA Stirrer
+4. PocketPCR Case for 3D Printing
+```
+
 
 ### 1. Install and Test at least 2 different 3D Applications.
 
 I have ever used some 3D CAD software. Usually, I am using Autodesk Fusion 360, and it is very easy to make models. However, recently, Autodesk limited some functions in Free-version, also, I cannot use the educational license because I left the unviersity last year. So, now I am trying to learn some opensorce 3D CAD software such as FreeCAD, OpenSCAD, Blender and so on... 
 
-#### Autodesk Fusion 360
+### Autodesk Fusion 360
 
 Here are some of my works by Autodesk Fusion 360
 
@@ -35,11 +45,11 @@ The design is uploaded to the Autodesk 360 (Autodesk Cloud storage of 3D model).
 
 **Sensing BEETLE**
 
-Sensing BEETLE is my final project of Fab Academy 2019. Although the project satisfied requirements of Fab Academy Final Project, this project still have not completed in two points. One is the electronics part. It does not install the logging and visualizing mechanism via WiFi or Bluetooth (need to revise the PCB based on ESP32). Another is the design part. The mechanism and body frame of the robot is separated, and the body frame is easy to blow away.... Need to re-design the mechanism and body frame... 
+Sensing BEETLE is my final project of Fab Academy 2019. 
 
 ![](https://fabacademy.org/2019/labs/kamakura/students/tsuchiya-yosuke/presentation.png)
 
-I designed 6-leg linkage mechanism and the body frame of the BEETLE robot by Fusion 360.
+I designed 6-legs linked mechanism and the body frame of the BEETLE robot by Fusion 360.
 
 ![](https://fabacademy.org/2019/labs/kamakura/students/tsuchiya-yosuke/projects/img/3DModelofInsectBody.png)
 
@@ -47,7 +57,7 @@ I designed 6-leg linkage mechanism and the body frame of the BEETLE robot by Fus
 
 ![](https://fabacademy.org/2019/labs/kamakura/students/tsuchiya-yosuke/projects/img/3DModelofMechanicalDesign.png)
 
-The parts are projected to 2D Design and fabricated by laser-cutter.
+Those parts are projected to 2D Design and fabricated by laser-cutter.
 
 ![](https://fabacademy.org/2019/labs/kamakura/students/tsuchiya-yosuke/projects/2D-data-insect-sensing-robot-parts.v3.png)
 
@@ -73,9 +83,9 @@ The body frame is too big and it cannot print out at once. So, I separated the b
 
 Finally, here is complete to fabricate (with using lasercutter (subtractive approach) and 3D Printer (additive approach))
 
+![](https://fabacademy.org/2019/labs/kamakura/students/tsuchiya-yosuke/projects/img/IMG_7913.jpg)
 
-
-
+Although the project satisfied requirements of Fab Academy Final Project, this project still have not completed in two points. One is the electronics part. It does not install the logging and visualizing mechanism via WiFi or Bluetooth (need to revise the PCB based on ESP32). Another is the design part. The mechanism and body frame of the robot is separated, and the body frame is easy to blow away.... Need to re-design the mechanism and body frame... 
 
 #### FreeCAD
 
@@ -109,11 +119,11 @@ My Groupmate are good at to make a typography of Kanji by Vinyl Tape. So, she ma
 
 ![](../images/week03/IMG_0958.jpg)
 
-... An Bio Expart in our Bio Lab tried to use our Cleanbox.... Because the square hole for putting hands into our Cleanbox, she looked struggle to do her works inside there.... 
+... A Bio Expart in our Lab tried to use our Cleanbox.... Because the square hole for putting hands into our Cleanbox, she looked struggle to do her works inside there.... 
 
 ![](../images/week03/DSC_6108.jpg)
 
-Well,,, it is complete to make it. In my experience of Fab Academy works, it is important to make moc-up by cardboard to understand what I want to make.... I thought I will learn more what the role of Cleanbox, and what are the role of every machines in Bio Lab....
+Anyway,,, it is complete to make it. In my experience of Fab Academy works, it is important to make moc-up by cardboard to understand what I want to make.... I thought I will learn more what the role of Cleanbox, and what are the role of every machines in Bio Lab....
 
 ---
 
