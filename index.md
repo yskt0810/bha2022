@@ -10,8 +10,8 @@ Welcome to my BioHack Academy Documentation Site.
 
 - [01: Introductions](./01_Introductions/)
 - [02: Deconstructing the Lab](./02_DeconstructingTheLab)
-- 03: Making the Lab
-- 04: Growing Materials
+- [03: Making the Lab](./03_MakingTheLab/)
+- [04: Growing Materials](./04_GrowingMaterials/)
 - 05: Growing more(HLN)
 - 06: Life in Silico
 - 07: CRISPA week
