@@ -11,20 +11,20 @@ permalink: /03_MakingTheLab/
 Here is the list that Georg gave us the plan of this week assignment.
 
 ```
-1. Test some 3D CAD software (at least two).
+1. Demonstrate some 3D CAD software (at least two).
 2. Hands-on Group Work: Design and Make a CleanBox
 3. BHA Stirrer
 4. PocketPCR Case for 3D Printing
 ```
 
 
-### 1. Install and Test at least 2 different 3D Applications.
+### 1. 3D Design Software
 
 I have ever used some 3D CAD software. Usually, I am using Autodesk Fusion 360, and it is very easy to make models. However, recently, Autodesk limited some functions in Free-version, also, I cannot use the educational license because I left the unviersity last year. So, now I am trying to learn some opensorce 3D CAD software such as FreeCAD, OpenSCAD, Blender and so on... 
 
 ### Autodesk Fusion 360
 
-Here are some of my works by Autodesk Fusion 360
+I will introduce some of my works by Autodesk Fusion 360
 
 **Simple Core XY Pen Plotter**
 
@@ -89,7 +89,7 @@ Although the project satisfied requirements of Fab Academy Final Project, this p
 
 #### FreeCAD
 
-
+Coming Soon.....
 
 --- 
 
@@ -129,6 +129,52 @@ Anyway,,, it is complete to make it. In my experience of Fab Academy works, it i
 
 ### 3. Fork and Change the BHA Stirrer Repo
 
-### 4. Prepare the PocketPCR Case for 3D Printing
+I forked [github repository of BHA Stirrer](https://github.com/BioClub/BHA_Stirrer) (DIY Magnetic Stirrer). 
+
+![](../images/week03/pic-3-1.png)
+
+Then, cloned into my PC and open it.
+
+![](../images/week03/pic-3-2.png)
+
+I found the BoM for Japan file, then checking the list....
+
+![](../images/week03/pic-3-3.png)
+
+Most of the parts in BoM could by in Japanese Online Mechanical/Electronics Parts shops, but some parts are missing the link
+
+- 7.5W Power Supply
+
+So, I am looking for where I can buy it.... 
+
+### 4. 3D Printing of Pocket PCR (Preparation)
+
+The meaning of "Preparation" is to make a CAM file (like G-Code) for 3D printing by using a slicer software.
+
+I have my own 3D Printer, Prusa i3 MK3.
+
+![](../images/week03/IMG_0972.jpg)
+
+So, I will make a G-Code for this printer by using Prusa Slicer.
+
+First, download a STL file of Pocket PCR case from [here](https://www.thingiverse.com/thing:4094823). Then, open the STL file with Prusa Slicer.
+
+![](../images/week03/pic-3-4.png)
+
+Rotate the model 90 degree in X-Axis.
+
+![](../images/week03/pic-3-5.png)
+
+Make slice the model, then we can see the preview of sliced model.
+
+![](../images/week03/pic-3-6.png)
+
+From to the preview, we can see it takes about 1 hour and 43 minutes for printing.
+
+![](../images/week03/pic-3-7.png)
+
+Then, Push "Export G-Code" on the Right Bottom side of the Slicer.
+
+[Here](../files/PocketPCR_Case_0.15mm_PLA_MK3S_1h42m.gcode) is the G-Code file that exported.
 
 
