@@ -21,7 +21,7 @@ Welcome to my BioHack Academy Documentation Site.
 
 ### Tips 
 
-- [Using ImageMagick to compress image files](./tips/ImageMagick/)
+- [Using ImageMagick to compress image files](./tips/imagemagick/)
  
 <!--<div class="posts">
   {% for post in site.posts %}
