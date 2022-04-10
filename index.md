@@ -12,12 +12,16 @@ Welcome to my BioHack Academy Documentation Site.
 - [02: Deconstructing the Lab](./02_DeconstructingTheLab)
 - [03: Making the Lab](./03_MakingTheLab/)
 - [04: Growing Materials](./04_GrowingMaterials/)
-- 05: Growing more(HLN)
-- 06: Life in Silico
+- [05: Growing more(HLN)](./05_GrowingMore/)
+- [06: Life in Silico](./06_LifeInSilico/)
 - 07: CRISPA week
 - 08: Pesonal Project
 - 09: Personal Project
 - 10: Presentations
+
+### Tips 
+
+- [Using ImageMagick to compress image files](./tips/ImageMagick/)
  
 <!--<div class="posts">
   {% for post in site.posts %}
