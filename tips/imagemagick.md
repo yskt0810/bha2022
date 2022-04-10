@@ -30,7 +30,7 @@ brew install imagemagick
 
 ![](../images/imagemagick/tips-im-2.png)
 
-ターミナルを開きます。ターミナルを開いた時に最初に表示される場所は、ユーザーのホームフォルダ（/Users/<username>/）の中になります。ですので、デスクトップの中のbha2022というフォルダまで移動しなければいけません。以下の通りコマンドを入力し、Enterキーを押します。cd で change directory の意味です。
+ターミナルを開きます。ターミナルを開いた時に最初に表示される場所は、ユーザーのホームフォルダ（/Users/username/）の中になります。ですので、デスクトップの中のbha2022というフォルダまで移動しなければいけません。以下の通りコマンドを入力し、Enterキーを押します。cd で change directory の意味です。
 
 ```
 cd ./Desktop/bha2022/

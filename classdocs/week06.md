@@ -36,7 +36,7 @@ Also, I can find the sink to wash hands, dishes or something.... It is also same
 
 ### Simlarity 2: Microscope and Imaging
 
-I can find some microscopes and imaging tools on the desk where is most near from the entrance door. Of course, those tools are professional level and seems expensive than the microscope in the BioClub lab... That is natural.
+I can find some microscopes and imaging tools on the desk where is nearest from the entrance door. Of course, those tools are professional level and seems expensive than the microscope in the BioClub lab... That is natural.
 
 ![](../images/week06/6-5.jpg)
 
