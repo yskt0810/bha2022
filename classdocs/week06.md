@@ -108,6 +108,25 @@ I didn't think I could meet with the flog in the lab...
 Seemingly, Iwasaki Lab has full and rich equipments for experiments for biological experiments.  Looking at the Iwasaki Laboratory, I thought there are some common elements (manars and basic equipments) installed in each lab in each scales. 
 
 
+## Digital DNA Design 
+
+This is interesting part. But, there are a lot of technical terms... So, I took memos of each technical terms.
+
+Genome: ゲノムとは？
+
+ゲノム（genome）は、gene（遺伝子）と集合を表す "-ome"を組み合わせた言葉で、生物の持つ遺伝子（遺伝情報）の全体を指す言葉。その実態は生物の細胞内にあるDNA分子であり、遺伝子や遺伝子の発現を制御する情報などが含まれる。
+
+
+CRISPR (or CRISPR-Cas9)
+
+Clusterd Regularly Interspaced Short Palindromic Repeats
+
+日本語メモ（参考：「[ゲノム編集とは？遺伝子組み換えとの違いや危険性、応用の可能性を解説](https://www.rd.ntt/se/media/article/0012.html)」）
+ゲノム編集は、生物が持つゲノムDNA上の特定の塩基配列を狙って変化させる技術。外来の遺伝子を細胞に導入して新しい形質を付け加える遺伝子組み換えに対して、細胞がもともと持っている性質を細胞内部で変化させることが特徴。
+
+そして、ゲノム編集に使用されるツールがCRISPR-Cas9というもの。[2020年のノーベル化学賞を受賞](https://www3.nhk.or.jp/news/special/nobelprize2020/chemical/news/news_08.html)した、エマニュエル・シャルパンティエとジェニファ・ダウトナにより開発された手法であり、それまでのゲノム編集の方法に比べて簡単で効率がよく、より自在に遺伝情報を書き換えることができ、生命科学の飛躍的発展に貢献した。
+
+CRISPR-Cas9でのゲノム編集の手法が、、、RNAを用いた転写。。。
 
 
 
