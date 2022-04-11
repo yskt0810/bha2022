@@ -4,6 +4,8 @@ title: 06 Life in Silico
 permalink: /06_LifeInSilico/
 ---
 
+But,,, does not talk about Silico Lab in this document....
+
 This week, we visited Professor Iwasaki's labratory (Waseda University). So, we couldn't attend the class in live. So, we check the class video later. The note of the lecture "Life in Silico" is interesting but difficult to me. So, I will make a memo of the lecture, later.
 
 ## Assignment Works
