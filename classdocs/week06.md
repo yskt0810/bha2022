@@ -128,5 +128,19 @@ Clusterd Regularly Interspaced Short Palindromic Repeats
 
 CRISPR-Cas9でのゲノム編集の手法が、、、RNAを用いた転写。。。
 
+授業では、In Silico の名の通りコンピュータ上でゲノム編集を行う手順が紹介されている。
 
+![](../images/week06/6-17.jpg)
+
+![](../images/week06/6-18.jpg)
+
+![](../images/week06/6-19.jpg)
+
+なんかバイナリー編集みたいだ。。。
+
+Online Tools to select sqRNAs
+
+特定のRNAを選択するためのオンラインツール群の紹介
+
+![](../images/week06/6-20.jpg)
 
