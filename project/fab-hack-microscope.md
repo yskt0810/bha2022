@@ -12,10 +12,6 @@ However, I have not good at how to "apply" biohack to my life. How can I use tho
 
 And, as the first step of this project, I decided to make an microscope with mobilizing my knowledge and skills of digital fabrication.
 
-## Features of the product
-
-Fab Hack Microscope is
-
 ## Bill of Materials
 
 To make a Fab Hack Microscope, we need to buy those items. 
@@ -31,8 +27,24 @@ To make a Fab Hack Microscope, we need to buy those items.
 | Lead Screw Copper Nut (150mm, 8mm pitch) | 2 | [Amazon](https://www.amazon.co.jp/-/en/gp/product/B07RB5NPV8/) | 
 | Lead Screw Rod | 2 | [Amazon](https://www.amazon.co.jp/-/en/gp/product/B07RB5NPV8/) |
 | Beam Coupling Motor Shaft Coupler | 2 | [Amazon](https://www.amazon.co.jp/-/en/gp/product/B07ZMYSYLH/?th=1) |
+| C Shaft SN | 2 | [monotaro](https://www.monotaro.com/p/3747/3843/?displayId=5) | size: 8mm (radius), length: 250mm |
+| liner Bushing Straight | 2 | [monotaro](https://www.monotaro.com/p/0360/7923/?displayId=5) | inside hole radius: 5mm, outer radius: 16mm |
 
-## Design
+## Design: 
+
+
+### Body of Microscope
+
+I started to design a body of microscope. This is simple, just using a wrap core and modelling the adaptor of Eyepiece Webcome and Objective Lens.  
+
+### Z-Axis Mechanism
+　
+The most important part of desiging in 1st version is a mechanism of Z-axis up/down with holding the body of microscope that assembled Eyepiece Webcam and Objective Lens. I used a NEMA Stepper motor for controlling up/down and designed with inspiring from [the mechanism of 3D Printer Z-axis](https://forum.duet3d.com/topic/16486/choosing-a-z-axis-style/9).
+
+Here is the Fusion 360 view:
+
+
+
 
 
 ## Electronics
