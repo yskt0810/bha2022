@@ -1,4 +1,8 @@
-# Fab Hack Microscope ver.1 (Final Project of BHA 2022)
+---
+layout: page
+title: Fab Hack Microscope ver.1 (Final Project of BHA 2022)
+permalink: /projects/fab-hack-microscope/
+---
 
 ## Motivations
 
@@ -29,6 +33,7 @@ To make a Fab Hack Microscope, we need to buy those items.
 | Beam Coupling Motor Shaft Coupler | 2 | [Amazon](https://www.amazon.co.jp/-/en/gp/product/B07ZMYSYLH/?th=1) |
 
 ## Design
+
 
 ## Electronics
 
