@@ -15,9 +15,7 @@ Welcome to my BioHack Academy Documentation Site.
 - [05: Growing more(HLN)](./05_GrowingMore/)
 - [06: Life in Silico](./06_LifeInSilico/)
 - 07: CRISPA week
-- 08: Pesonal Project
-- 09: Personal Project
-- 10: Presentations
+- [08/09/10: Pesonal Project](./project/fab-hack-microscope.md)
 
 ### Tips 
 
