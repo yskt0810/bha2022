@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Fab Hack Microscope ver.1 (Final Project of BHA 2022)
-permalink: /projects/fab-hack-microscope/
+permalink: /project/fab-hack-microscope/
 ---
 
-<img src="/project/fp-img/IMG_1757.jpg" width="50%"><img src="/project/fp-img/fp-pic2.jpg" width="50%">
+<img src="./fp-img/IMG_1757.jpg" width="50%"><img src="./fp-img/fp-pic2.jpg" width="50%">
 
 ## Motivations
 
