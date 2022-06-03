@@ -51,7 +51,15 @@ Then, printed and assembled.
 
 We can make our own objective lens by using two convex lens. Here, I make it by using this f65 13mm convex lens.
 
+![](./fp-img/IMG_1589.jpg)
 
+Convex Lens Adapter designed to insert two lens with interval about 1mm.
+
+![](./fp-img/fp-pic3.png)
+
+Then, printed out and assembled the lens.
+
+![](./fp-img/IMG_1615.jpg)
 
 ### Z-Axis Mechanism
 　
