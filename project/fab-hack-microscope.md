@@ -4,7 +4,7 @@ title: Fab Hack Microscope ver.1 (Final Project of BHA 2022)
 permalink: /projects/fab-hack-microscope/
 ---
 
-<img src="./fp-img/IMG_1757.jpg" width="50%"><img src="./fp-img/fp-pic2.jpg" width="50%">
+<img src="../fp-img/IMG_1757.jpg" width="50%"><img src="../fp-img/fp-pic2.jpg" width="50%">
 
 ## Motivations
 
