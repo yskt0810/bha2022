@@ -63,11 +63,11 @@ Then, printed out and assembled the lens.
 
 ### Z-Axis Mechanism
 　
-The most important part of desiging in 1st version is a mechanism of Z-axis up/down with holding the body of microscope that assembled Eyepiece Webcam and Objective Lens. I used a NEMA Stepper motor for controlling up/down and designed with inspiring from [the mechanism of 3D Printer Z-axis](https://forum.duet3d.com/topic/16486/choosing-a-z-axis-style/9).
+1st version is implemented a mechanism of Z-axis up/down with holding the body of microscope. I used a NEMA Stepper motor for controlling up/down and designed with inspiring from [the mechanism of 3D Printer Z-axis](https://forum.duet3d.com/topic/16486/choosing-a-z-axis-style/9).
 
 Here is the Fusion 360 view:
 
-
+![](./fp-img/fp-pic4.png)
 
 
 
