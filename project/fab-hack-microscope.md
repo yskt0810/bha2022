@@ -4,6 +4,8 @@ title: Fab Hack Microscope ver.1 (Final Project of BHA 2022)
 permalink: /projects/fab-hack-microscope/
 ---
 
+<img src="./fp-img/IMG_1757.jpg" width="50%"><img src="./fp-img/fp-pic2.jpg" width="50%">
+
 ## Motivations
 
 I was enjoy the BioHack Academy 2022 both online lectures and workshops at Bioclub Tokyo. I learnd so much about knowledges, skills and literacies of Biohack in local labs and in my home. 
@@ -30,12 +32,26 @@ To make a Fab Hack Microscope, we need to buy those items.
 | C Shaft SN | 2 | [monotaro](https://www.monotaro.com/p/3747/3843/?displayId=5) | size: 8mm (radius), length: 250mm |
 | liner Bushing Straight | 2 | [monotaro](https://www.monotaro.com/p/0360/7923/?displayId=5) | inside hole radius: 5mm, outer radius: 16mm |
 
-## Design: 
+## Design and 3D Printing
 
 
 ### Body of Microscope
 
-I started to design a body of microscope. This is simple, just using a wrap core and modelling the adaptor of Eyepiece Webcome and Objective Lens.  
+Use wrap core as a main body of the microscope, then modelling and printing adapters of the an eyepiece webcam and a objective lens.
+
+Designing by Fusion 360:
+
+![](./fp-img/fp-pic1.png)
+
+Then, printed and assembled. 
+
+![](./fp-img/IMG_1822.jpg)
+
+### Desiging Objective Lens
+
+We can make our own objective lens by using two convex lens. Here, I make it by using this f65 13mm convex lens.
+
+
 
 ### Z-Axis Mechanism
 　
