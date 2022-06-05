@@ -6,6 +6,9 @@ permalink: /project/fab-hack-microscope/
 
 <img src="../fp-img/IMG_1757.jpg" width="50%"><img src="../fp-img/fp-pic2.jpg" width="50%">
 
+All source codes and design files are available here:
+[https://github.com/yskt0810/BHA2022FP-FabHack-Microscope](https://github.com/yskt0810/BHA2022FP-FabHack-Microscope)
+
 ## Motivations
 
 I was enjoy the BioHack Academy 2022 both online lectures and workshops at Bioclub Tokyo. I learnd so much about knowledges, skills and literacies of Biohack in local labs and in my home. 
