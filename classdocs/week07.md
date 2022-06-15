@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 07 CRISPA Week
-permalink: /05_GrowingMore/
+permalink: /07_CRISPA/
 ---
 
 PCR by Bento Lab.
@@ -40,4 +40,24 @@ This is a practices of how to use micro-pipette.
 To gather the saliva, I used salt water as a mouthwash to collect my cheek cells. Pour the salt water into my mouth, then I rinses my inner cheeks vigorously for 30 - 60 seconds. After that, I spitted the saline solution into a new glass.
 
 ![](../images/week07/IMG_1445.jpeg)
+
+After gathering saliva (cheek cells), I moved it into the microcengrifuge tubes.
+
+![](../images/week07/IMG_1446.jpeg)
+
+
+### Centrifuge
+
+Now, I will try to use centrifuge of Bento Lab. It use gravitational force to concentrate the sample. 
+
+I set the micro-tube into the centrefuge. The important point is to balance the centrifuge with another sample or with another counter weight. If we set only two micro-tubes, we shold put them with keeping the balances on the centrifuge. 
+
+![](../images/week07/IMG_1449.jpeg)
+
+Once the micro-tubes is set with balance in the centrifuge roter, close the lid and activate the centrifuge module. Then, set the following...
+
+- Speed: 4,000G
+- spin for 90 seconds.
+
+![](../images/week07/IMG_1454.jpeg)
 
