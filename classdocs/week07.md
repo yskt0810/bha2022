@@ -65,9 +65,31 @@ Then, start the centrifuge roter. The demonstration is here:
 
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/720654129?h=24e9765522&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Centrifuge by Bento Lab"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-### Recovering the Pellet
+### Recovering and Transfer the Pellet
 
 After finishing centrifugation, we can see a pellet at the bottom of the micro-tube. This is the cheek cells concentrated in a small white ball. (Remaining liquid is called the supernatant.).
 
 ![](../images/week07/IMG_1459.jpeg)
+
+Then, we use to transfer the resuspended sample into a 0.2 mL PCR tube so that we can heat it in the thermocycler.
+
+![](../images/week07/IMG_1507.jpeg)
+
+### Thermocycler for heating the sample
+
+Now, we will use thermocycler as a heat block to boil the cells and burst them open, to release the DNA into the solution.
+
+I placed my PCR tube with my sample cell in the themocycler block.
+
+![](../images/week07/IMG_1512.jpeg)
+
+Then, setup the thermocycler to heat at 99C for 10 minutes.
+
+![](../images/week07/IMG_1512.jpeg)
+
+Well, it's time to start thermocycler. let's do it.
+
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/720676678?h=109ac2cbf0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="IMG_1471.mov"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
 
