@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 07 CRISPA Week
-permalink: /07_CRISPA/
+title: 08 PCR Test By Bento Lab
+permalink: /08_PCR/
 ---
 
 PCR by Bento Lab.
@@ -129,7 +129,7 @@ Then, store it in the freezer at around -20 C. This will prevent the sample.
 ![](../images/week07/IMG_1531.jpeg)
 
 
-### Gel Electrophoresis
+### Lactose Intolerance by Gel Electrophoresis
 
  Cast a 1% agarose gel, load the gel with DNA samples and ladder, and separate them using gel electrophoresis. 
 
@@ -179,4 +179,46 @@ Then, set the parameter...
 
 
 Then, start to gel elecrophoresis. Wait 40 minutes...
+
+### Visualizing DNA
+
+After gel run has completed, I can visualise my result. 
+
+First, open the gel box, and put away the buffer.
+
+![](../images/week07/IMG_1698.jpeg)
+![](../images/week07/IMG_1700.jpeg)
+
+Then, turn off the light in the room, and turn on blue light of the Bento Lab.
+
+![](../images/week07/IMG_1704.jpeg)
+
+And.... we can see the pattern !
+
+![](../images/week07/IMG_1705.jpeg)
+
+Also, we can use the yellow filter, and we can see the patter more clear.
+
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/720909419?h=3b8675f231&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Visualize my DNA"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
+### Analysis the result.
+
+This time, we set our sample as following, mine should be the 2nd and 3rd one from the right side.
+
+![](../images/week07/IMG_1656.jpeg)
+
+Compare with this picture of our gel to this example result, which has been run with all variations.
+
+![](https://bento.bio/app/uploads/protocols/dna-analysis-projects/model_results_lactose_intolerance.jpg)
+
+Then, see again the result.
+
+![](../images/week07/IMG_1707.jpeg)
+
+It seems that my DNA pattern is CC.
+
+According to the [protocol instructions of lactose intolerance](https://bento.bio/protocol/biotechnology-101/lactose-intolerance/), This result shows a person who has both copies of the C allele, so homozygous recessive. This person is likely to be lactose intolerant as an adult.
+
+
 
