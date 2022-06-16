@@ -129,4 +129,54 @@ Then, store it in the freezer at around -20 C. This will prevent the sample.
 ![](../images/week07/IMG_1531.jpeg)
 
 
+### Gel Electrophoresis
+
+ Cast a 1% agarose gel, load the gel with DNA samples and ladder, and separate them using gel electrophoresis. 
+
+ First, add Taq PCR Premix With Dyes into my DNA Sample.
+
+ ![](../images/week07/IMG_1593.jpeg)
+
+ The sample become blue...
+
+![](../images/week07/IMG_1603.jpeg)
+
+Then setup Gel Electrophresis in the Bento Lab.
+
+![](../images/week07/IMG_1636.jpeg)
+
+Make a Gel Buffer... 
+
+![](../images/week07/IMG_1641.jpeg)
+
+And, pour it into the stage
+
+![](../images/week07/IMG_1648.jpeg)
+
+Set the Gel into the stage...
+
+![](../images/week07/IMG_1631.jpeg)
+![](../images/week07/IMG_1665.jpeg)
+
+Then, put the DNA sample into the Gel. This is very sensitive tasks. Here is a demonstration.
+
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/720905318?h=154de35ef5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="PCR-Gel Electroph"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+Then, the DNA sample put, and get ready to Electrophoresis.
+
+![](../images/week07/IMG_1681.jpeg)
+
+Connect the plug to apply an electrical current. 
+
+![](../images/week07/IMG_1686.jpeg)
+
+Then, set the parameter...
+
+- Voltage: 50V
+- time : 40 minutes
+
+![](../images/week07/IMG_1688.jpeg)
+
+
+Then, start to gel elecrophoresis. Wait 40 minutes...
 
