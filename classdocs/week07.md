@@ -92,4 +92,41 @@ Well, it's time to start thermocycler. let's do it.
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/720676678?h=109ac2cbf0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="IMG_1471.mov"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
+### Centrifuge again
+
+After heating the sample, I will use centrifuge again to separate the supernatant from the cell debris.
+Here require one technick. Because micro-tube is too small to assemble into the centrifuge, I put micro-tube into the centrifuge tube.
+
+![](../images/week07/IMG_1519.jpeg)
+
+Then, set the sample into the centrifuge.
+
+![](../images/week07/IMG_1520.jpeg)
+
+Set the parameter here:
+
+- Speed: 8,000 G
+- Spin for 90 seconds.
+
+![](../images/week07/IMG_1521.jpeg)
+
+Then, start the centrifuge. The noise a little bit lauder than 4G.
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/720886969?h=2237bcb197&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Centrifuge Extraction with 8G"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+### Storageing
+
+After centrifugation, all the cell debris has been forced to the bottom of the PCR tube leaving only the DNA in the liquid supernatant. The supernatant should look clear like water.
+
+![](../images/week07/IMG_1523.jpeg)
+
+Label the name on the tube, then put into the storage. 
+
+![](../images/week07/IMG_1527.jpeg)
+
+Then, store it in the freezer at around -20 C. This will prevent the sample.
+
+![](../images/week07/IMG_1531.jpeg)
+
+
 
