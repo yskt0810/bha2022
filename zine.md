@@ -1,5 +1,8 @@
-## What does openness means?
-
+---
+layout: page
+title: What does openness means?
+permalink: /zine/
+---
 ***Shared Culture in Biohack Academy and its footsteps***
 
 ### Yosuke Tsuchiya
