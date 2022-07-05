@@ -5,7 +5,7 @@ permalink: /zine/
 ---
 ***Shared Culture in Biohack Academy and its footsteps***
 
-### Yosuke Tsuchiya
+**Yosuke Tsuchiya**
 
 ### Shared Culture of hackers
 
