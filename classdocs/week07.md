@@ -43,8 +43,29 @@ We put agar into the petri dish.... It have to be worked in the clean bench. The
 
 We use a oatmeals as a foods of slime mold.
 
-<img src="../../images/week07/IMG_1394.jpeg" width="49%">
-<img src="../../images/week07/IMG_1395.jpeg" width="49%">
+<img src="../images/week07/IMG_1394.jpeg" width="49%">
+<img src="../images/week07/IMG_1395.jpeg" width="49%">
 
+We put a oatmeals and slime mold into the augar medium. 
 
+![](../images/week07/IMG_1392.jpeg)
+
+The important thing is to sterillize tweezers by spirit lamp.
+
+![](../images/week07/IMG_1390.jpeg)
+
+Then, we put Slime mold in the incubator. The incubator should keep dark, so we sticked the cartboard on the door glass to cut the light. And, to keep inside wet, set the temperature around 25 celcius degree.
+
+![](../images/week07/IMG_1396.jpeg)
+
+Inside of the incubator is here:
+
+<img src="../images/week07/IMG_1402.jpeg" width="49%">
+<img src="../images/week07/IMG_1403.jpeg" width="49%">
+
+Then waiting the few days for growing the slime mold.
+
+### After a few days....
+
+After a few days, we checked how slime mold grow and move around.
 
