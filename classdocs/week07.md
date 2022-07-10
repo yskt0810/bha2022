@@ -54,6 +54,10 @@ The important thing is to sterillize tweezers by spirit lamp.
 
 ![](../images/week07/IMG_1390.jpeg)
 
+I put the slime mold and foods just like draw shetch.
+
+![](../images/week07/IMG_1431.jpeg)
+
 Then, we put Slime mold in the incubator. The incubator should keep dark, so we sticked the cartboard on the door glass to cut the light. And, to keep inside wet, set the temperature around 25 celcius degree.
 
 ![](../images/week07/IMG_1396.jpeg)
@@ -68,4 +72,10 @@ Then waiting the few days for growing the slime mold.
 ### After a few days....
 
 After a few days, we checked how slime mold grow and move around.
+
+![](../images/week07/IMG_1533.jpeg)
+
+Checking on the stage light.
+
+![](../images/week07/IMG_1534.jpeg)
 
