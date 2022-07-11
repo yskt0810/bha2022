@@ -13,11 +13,11 @@ Welcome to my BioHack Academy Documentation Site.
 - [03: Making the Lab](./03_MakingTheLab/)
 - [04: Growing Materials](./04_GrowingMaterials/)
 - [05: Growing more(HLN)](./05_GrowingMore/)
-- [06: Life in Silico](./06_LifeInSilico/)
+- [06: Life in Silico (Visiting Prof. Iwasaki's Lab)](./06_LifeInSilico/)
 - 07: CRISPA week
-- Extra: Slime Mold
+- [Extra: Slime Mold](./07_SlimeMold/)
 - [Extra:PCR by Bento Lab (BioClub Tokyo WS)](./08_PCR/)
-- [Final Project](./project/fab-hack-microscope.md)
+- [Final Project: Fab Hack Microscope](./project/fab-hack-microscope.md)
 
 ### Tips 
 
