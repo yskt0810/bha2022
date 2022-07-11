@@ -79,3 +79,27 @@ Checking on the stage light.
 
 ![](../images/week07/IMG_1534.jpeg)
 
+Compareing with the sketches.
+
+Here is a Hanzomo Line Sketch and real navigation of slime mold. Slime mold have not grew up yet....
+
+<img src="../images/week07/week07-sketch1.jpg" width="49%">
+<img src="../images/week07/week07-real1.jpg" width="49%">
+
+I made two slime mold for the 2nd sketch. The slime mold didn't move around in expected order. Moreover, tt is interesting that the one grew well up, another have not absolutely grew up yet... What is the difference among them....
+
+<center>
+<img src="../images/week07/week07-sketch2.jpg" width="49%"><br>
+</center>
+
+<img src="../images/week07/week07-real2-1.jpeg" width="49%">
+<img src="../images/week07/week07-real2-2.jpeg" width="49%">
+
+In addition, one of other student's slime mold grew too much, then they tried to break outside... Really interesting why should be so different nevertheless the conditions of each slime molds (medium, environments) are the same...
+
+<img src="../images/week07/IMG_1424.jpeg" width="49%">
+<img src="../images/week07/IMG_1422.jpeg" width="49%">
+
+### Finally
+
+I learned about the features of Slime mold through the document and the experiment both. It was the first time for me to grew up Slime mold and I thought it could be used for many fun things of Bio-Hacking. In the future, I would make my own bio-hack environment (making incubator) and grew up slime mold in my home...
