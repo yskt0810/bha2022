@@ -265,3 +265,19 @@ See also [here](https://github.com/yskt0810/BHA2022FP-FabHack-Microscope/blob/ma
 
 ## Interface Application
 
+I made an interface application with Processing. The role of this app is very simple:
+
+1) to visualize the camera view from Eypiece-Lens Camera
+2) to send/recieve signals to control the stepper motor via Serial Communication
+
+You can see the [code](https://github.com/yskt0810/BHA2022FP-FabHack-Microscope/blob/main/codes/Processing/FabHac-Microscope-Interface.pde) here.
+
+Here is the demonstaration video. 
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/732849483?h=ed048ba695&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Fab Hack Microscope Demonstration"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
+## Observations
+
+Well, here is the show case of what I observed by this Fab-hack Microscope.
+
