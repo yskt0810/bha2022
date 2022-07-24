@@ -9,6 +9,12 @@ permalink: /project/fab-hack-microscope/
 All source codes and design files are available here:
 [https://github.com/yskt0810/BHA2022FP-FabHack-Microscope](https://github.com/yskt0810/BHA2022FP-FabHack-Microscope)
 
+Here is the presentation video of this final project. 
+
+
+
+
+
 ## Motivations
 
 I was enjoy the BioHack Academy 2022 both online lectures and workshops at Bioclub Tokyo. I learnd so much about knowledges, skills and literacies of Biohack in local labs and in my home. 
@@ -281,3 +287,35 @@ Here is the demonstaration video.
 
 Well, here is the show case of what I observed by this Fab-hack Microscope.
 
+![](./fp-img/observe-1.jpg)
+
+![](./fp-img/observe-2.jpg)
+
+![](./fp-img/observe-3.jpg)
+
+![](./fp-img/observe-4.jpg)
+
+![](./fp-img/observe-5.jpg)
+
+![](./fp-img/observe-6.jpg)
+
+## Conclusion and Future Plan
+
+Finally, I could make my own Fabble and Hackerble Microscope. In this Final Project prgress, I learned about structure and mechanism of the microscope. Also, I wanted to make other biohack tools and machines that I could make by myself. It's my pleasure to contribute to biohack community to construct and de-construct the lab (tools) with applying my skills and knowledges of digital fabrication. 
+
+In the future plan, I will revise this Fab-Hack microscope... as following (then, release as version 2).
+
+- to implemente XY motion to control the stage of the sample
+- to connect to the Internet and remotolly observe and record the transitions of the sample.
+- to BOM list update (less cheaper)
+
+Also, this is the first project of my "Building DIY Biohack space in my home". Therefore.... I will grow more [micro-organism](http://biohackacademy.github.io/bha7/organisms/) (by zpplying [DIY medium cultivation](http://biohackacademy.github.io/bha7/cultivation-media/)) and observe it. 
+
+Then, I will start to make another Biohack Machine.... Next will try to make Thermocycler, Centrifuge, Incubator.... and so on.
+
+
+## Acknowledgements
+
+I would like to thanks to my instructor, Georg Tremmel at Bioclub Tokyo for advising me to complete my final project. Also, I would like to thanks to Kas Houthuijs and other staffs of Biohack Academy Amsterdam for exciting lecture programs of Biohack Academy. I hope to visit WAAG society and see all of you there in the near future. 
+
+I also would like to thanks all class mates of Biohack Academy at Bio Club Tokyo, Mariko Sakuragi, Misa Haneda, Juppo Yokokawa, Yutaro Kawada, Ai Hirose and Shiho Hasegawa for sharing and helping each other to enjoy Workshops, and comlete our projects and assignments. Also, I would like to thanks Sho Hosotani, a manager of BioClub Tokyo (MTRL at Fab Cafe Tokyo) for teaching and supporting at our Bio Lab. 
