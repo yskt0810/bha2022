@@ -68,16 +68,92 @@ Then, printed out and assembled the lens.
 　
 1st version is implemented a mechanism of Z-axis up/down with holding the body of microscope. I used a NEMA Stepper motor for controlling up/down and designed with inspiring from [the mechanism of 3D Printer Z-axis](https://forum.duet3d.com/topic/16486/choosing-a-z-axis-style/9).
 
+I used the following mechanical parts and made 3D models to assemble each parts.
+
+- Lead Screw Copper Nut (150mm, 8mm pitch)	x 2
+- Lead Screw Rod x 2
+- Beam Coupling Motor Shaft Coupler	x 2	
+- C Shaft SN x 2
+- liner Bushing Straight
+- NEMA 17 Stepper Motor
+
 Here is the Fusion 360 view:
 
 ![](./fp-img/fp-pic4.png)
 
+Then, printed the parts and assembled.
+
+![](./fp-img/IMG_1491.jpeg)
+
+
+## Stage with Backlight
+
+Then, make a stage of the sample with backlight. I used Neopixel Full Color RGB Tapes for backlight the microscope.
+
+First, modelling the stage, with making a hole to insert Neopixel Tape.
+
+![](./fp-img/fp-pic5.png)
+
+Then, printed and assembled.
+
+![](./fp-img/fp-pic6.jpg)
 
 
 ## Electronics
 
+Now is the part for elctronics. The objective of the electronics part is to design the electronic circuit to control the stepper motor and Neopixel. In this time, Fab-Hack Microscope use the Arduino UNO as a main microcontroller board. Then, I designed the Shiled PCB that Assemble DRV8825 Stepper Motor Driver and Neopixel.
 
+### Shield Design
 
+I used Autodesk EAGLE to design the Shiled PCB. Here is the schema:
 
+![](./fp-img/ShieldSchema.png)
 
+Then, make a design of the shield.
 
+![](./fp-img/ShieldDesign.png)
+
+And, also make a outline of the shield.
+
+![](./fp-img/ShieldDesign_interor.png)
+
+### Shield Fabrication
+
+Then, I made a CAM file to mill the sheid by Roland SRM-20. We can use [MODS](http://modsproject.org/) for making CAM file for it. 
+
+First, export circuit trace line and outline of the shield as PNG file as follow. Here is the circuit trace file.
+
+![](./fp-img/MicroscopeShield_trace.png)
+
+Here is the outline file.
+
+![](./fp-img/MicroscopeShield_interor.png)
+
+Then, open MODS and setting parameter as follow. Then, import the PNG files.
+
+1. Open Server Program -> Machine -> Roland SRM-20 PCB
+2. In "Read PNG" section, push "select png file" button and read the PNG file.
+    - if you use Apple Computer for exporting PNG file, you should change dpi rate to double size. For example if the dpi in origina would be 800, then you should change the rate to 1600 (it is the issue of Ratina Display on Apple Computer)
+3. In the section of "set PCB Default", choose the appropriate parameter to mill the board.
+    - If you mill the trace line, push "mill trace (1/64)". If you mill the outline, push "mill outline (1/32)".
+4. In the section of "Roland SRM20 Milling Machine", you should set the origin x, y, z all to 0 (zero).
+5. Add a module "file save", then connect input node to "Roland SRM-20" output node.
+6. Then, push "calculate" button in "mill raster 2D" section.
+
+![](./fp-img/fp-pic7.png)
+
+Then, the CAM file is generated, and we can check the trace line on MODS.
+
+![](./fp-img/fp-pic8.jpg)
+
+Use Roland SRM-20 to mill the board. In this time, I used Fab Lab Kamakura's SRM-20.
+
+![](./fp-img/IMG_6923_17p.jpeg)
+
+Then, mill the board and soldered the parts.
+
+![](./fp-img/fp-pic9.jpg)
+
+### Embedded Programming
+
+I made an Arduino code to control the stepper motor and Neopixel. 
