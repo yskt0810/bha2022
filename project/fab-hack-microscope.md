@@ -11,8 +11,16 @@ All source codes and design files are available here:
 
 Here is the presentation video of this final project. 
 
+In English (at Midterm Presentation for Biohack Academy Final Class on May 12, 2022.)
+
+<iframe src="https://player.vimeo.com/video/717847922?h=e1e142f97b" width="640" height="416" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/717847922">BHA2022 - Yosuke Tsuchiya - Fab-Hack Microscope</a> from <a href="https://vimeo.com/trembl">Georg Tremmel</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
+In Japanese (at Final Presentation at Bioclub Tokyo on June 4, 2022. )
+
+<iframe src="https://player.vimeo.com/video/717842735?h=795f93d07a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/717842735">BHA2022 - Final 槌屋洋亮：Fab-Hack顕微鏡</a> from <a href="https://vimeo.com/trembl">Georg Tremmel</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
 ## Motivations
@@ -286,17 +294,30 @@ Here is the demonstaration video.
 ## Observations
 
 Well, here is the show case of what I observed by this Fab-hack Microscope.
+In the picture, left side is captured by my own fabble Objective Lens, right side is captured by the 10x consumer objective lens.
+
+Dietary Fiber:
 
 ![](./fp-img/observe-1.jpg)
 
+My Blood:
+
 ![](./fp-img/observe-2.jpg)
+
+Unknown micro-organism in the dust in my room.
 
 ![](./fp-img/observe-3.jpg)
 
+Slime Mold:
+
 ![](./fp-img/observe-4.jpg)
+
+Mold which I collected around our BioLab and grown by myself.
 
 ![](./fp-img/observe-5.jpg)
 
+Appendix: Neopixel LED Tape
+s
 ![](./fp-img/observe-6.jpg)
 
 ## Conclusion and Future Plan
