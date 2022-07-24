@@ -157,3 +157,111 @@ Then, mill the board and soldered the parts.
 ### Embedded Programming
 
 I made an Arduino code to control the stepper motor and Neopixel. 
+
+### Stepper Motor Control
+
+I want to control stepper motor from the Interface Application on PC (mationing later). So, I implemented the function of serial communication to transmit/send a signals for controlling. Also, I wanted to change the up/down speed rate flexibly.
+
+
+Here is the code of stepper motor section. The dir pin and step pin for stepper motor driver (DRV 8825) is assigned as Arduino UNO digital pin 2 (dir ) and digital pin 3 (step) by the Shield that fabricated above. 
+
+```
+const int dirPin = 2;
+const int stepPin = 3;
+
+const int steps = 1600;
+int stepDelay;
+int mode = 2; // 0: stepper control, 1: stepper adjustment, 2: menu
+int step_interval = 10;
+
+'''
+
+void control(){
+
+  if(Serial.available()){
+    stepDelay = 250;
+    char val = Serial.read();
+    
+    if(val == 'U'){
+      digitalWrite(dirPin,HIGH);
+      for(int x=0; x<step_interval; x++){
+        digitalWrite(stepPin,HIGH);
+        delayMicroseconds(stepDelay);
+        digitalWrite(stepPin,LOW);
+        delayMicroseconds(stepDelay);
+      }
+    }
+    else if(val == 'D'){
+      digitalWrite(dirPin,LOW);
+      for(int x=0;x<step_interval;x++){
+        digitalWrite(stepPin,HIGH);
+        delayMicroseconds(stepDelay);
+        digitalWrite(stepPin,LOW);
+        delayMicroseconds(stepDelay);
+        
+      }
+    }
+    else if(val == 'L'){
+      step_interval = 100;  
+    }
+    else if(val == 'S'){
+      step_interval = 10;
+    }
+  }
+}
+
+```
+
+### Neopixel
+
+Neopixel Part seems simple, but one problem occur. Neopiel Full Coloer LED could bright any kinds of colors with mixing and balancing brightness of R(Red), G(Green), B(Blue) light. If all color RGB set as mamimum, then the neopixel show white color. But, as show the following picture, the green LEDs is much more brightly than the red or blue LEDs, this means that any color you try to mix is inherently 'too green' unless you correct for that somehow. 
+
+![](https://github.com/FastLED/FastLED/wiki/images/FastLEDColorCorrection.jpg)
+*Source: [https://github.com/FastLED/FastLED/wiki/FastLED-Color-Correction](https://github.com/FastLED/FastLED/wiki/FastLED-Color-Correction)*
+
+So, I used FastLED library for color corrections to bright stage light in white. Here is the code of Neopixel part.
+
+```
+#include <FastLED.h>
+#define NUM_LEDS 12
+#define DATA_PIN 9
+
+'''
+CRGB leds[NUM_LEDS];
+
+void setup() {
+  // put your setup code here, to run once:
+  FastLED.addLeds<NEOPIXEL, DATA_PIN>(leds,NUM_LEDS);
+  
+  FastLED.setCorrection(TypicalPixelString);
+  FastLED.setTemperature(CoolWhiteFluorescent);
+  FastLED.setBrightness(128);
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+
+  leds[0] = CRGB::White;
+  leds[1] = CRGB::White;
+  leds[2] = CRGB::White;
+  leds[3] = CRGB::White;
+  leds[4] = CRGB::White;
+  leds[5] = CRGB::White;
+  leds[6] = CRGB::White;
+  leds[7] = CRGB::White;
+  leds[8] = CRGB::White;
+  leds[9] = CRGB::White;
+  leds[10] = CRGB::White;
+  leds[11] = CRGB::White;
+  
+  FastLED.show();
+  
+}
+
+```
+
+See also [here](https://github.com/yskt0810/BHA2022FP-FabHack-Microscope/blob/main/codes/Arduino/microscope-controller.ino) to complete code.
+
+
+## Interface Application
+
