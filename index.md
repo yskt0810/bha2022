@@ -22,7 +22,12 @@ Welcome to my BioHack Academy Documentation Site.
 ### Tips 
 
 - [Using ImageMagick to compress image files](./tips/imagemagick/)
- 
+
+### Essay and Note
+
+- [What does openness means? Shared Culture in Biohack Academy and its footsteps](./zine)
+  - Essay for our Zine Project
+  
 <!--<div class="posts">
   {% for post in site.posts %}
     <article class="post">    
