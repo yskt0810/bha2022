@@ -36,6 +36,8 @@ Since roses do not have a blue pigment, it was considered "impossible" to make r
 
 ![](https://www.suntory.co.jp/sic/img/research/s_bluerose/br_scrt_img02.gif)
 
+Cited from: [https://www.suntory.co.jp/sic/research/s_bluerose/secret/](https://www.suntory.co.jp/sic/research/s_bluerose/secret/)
+
 **Modification Methods**
 
 What kind of pigment a plant synthesizes is naturally determined by what kind of gene the plant has. Roses do not synthesize blue pigments because they do not have the genes needed to synthesize blue pigments (blue genes, academically, flavonoids 3', 5'-hydroxylase genes). Therefore, even after repeated mating, the blue roses could not be produced because the roses did not have the blue gene (they do not exist in the strawberry or apple of the Rosaceae family), and the blue pigment could not be synthesized.
@@ -58,8 +60,10 @@ Silkworm has various advantages in genetic modification. Sericulture has a long 
 The first Generic Modificated Silk Worm is appeared in 2000 by microinjecting foreign genes into eggs using gene recombination technology. In 2008, he succeeded in making shiny silk with the green fluorescent protein (GFP) of Aequorea victoria.
 
 ![](https://www.life-bio.or.jp/school/kaiko/images/quiz/q10_com01.jpg)
+
 Cited From:[https://www.life-bio.or.jp/school/kaiko/q10/a.html](https://www.life-bio.or.jp/school/kaiko/q10/a.html)
 
 
 ![](https://www.epochal.or.jp/science_casting/sc_2017/theme/images/07_02.jpg)
+
 Cite From: [https://www.epochal.or.jp/science_casting/sc_2017/theme/06.html](https://www.epochal.or.jp/science_casting/sc_2017/theme/06.html)
