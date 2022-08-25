@@ -4,7 +4,10 @@ title: Fab Hack Microscope ver.1 (Final Project of BHA 2022)
 permalink: /project/fab-hack-microscope/
 ---
 
-<img src="../fp-img/IMG_1757.jpg" width="50%"><img src="../fp-img/fp-pic2.jpg" width="50%">
+![](./fp-img/presentation_EN.png)
+
+![](./fp-img/presentation_JP.png)
+
 
 All source codes and design files are available here:
 [https://github.com/yskt0810/BHA2022FP-FabHack-Microscope](https://github.com/yskt0810/BHA2022FP-FabHack-Microscope)
